@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samet Yesil</h1>
+<h1 align="center">Hi 👋, I'm Hacı Samed Yesil</h1>
 <h3 align="center">Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yesil28&label=Profile%20views&color=0e75b6&style=flat" alt="yesil28" /> </p>
