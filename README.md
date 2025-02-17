@@ -47,9 +47,3 @@
   <img src="https://upload.wikimedia.org/wikipedia/he/thumb/3/39/Microsoft_SQL_server_logo.png/250px-Microsoft_SQL_server_logo.png" alt="sql" width="40" height="40"/> 
 </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yesil28&show_icons=true&locale=en&layout=compact" alt="yesil28" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yesil28&show_icons=true&locale=en" alt="yesil28" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yesil28&" alt="yesil28" /></p>
