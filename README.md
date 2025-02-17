@@ -46,10 +46,6 @@
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/he/thumb/3/39/Microsoft_SQL_server_logo.png/250px-Microsoft_SQL_server_logo.png" alt="sql" width="40" height="40"/> 
 </a>
-<a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"> 
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL3uFEyeveell3N2QYYeBc_cXjMHprzY26bg&s" alt="asp net core" width="40" height="40"/> 
-</a>
-
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yesil28&show_icons=true&locale=en&layout=compact" alt="yesil28" /></p>
