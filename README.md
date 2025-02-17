@@ -35,7 +35,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
 </a>
 <a href="https://angular.io/" target="_blank" rel="noreferrer"> 
-  <img src="http://www.w3.org/2000/svg" alt="angular" width="40" height="40"/> 
+  <img src="https://images.seeklogo.com/logo-png/50/1/angular-icon-logo-png_seeklogo-507324.png" alt="Angular" width="40" height="40"/> 
 </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40" height="40"/> 
