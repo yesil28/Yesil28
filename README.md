@@ -12,7 +12,8 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/haci-samed-yesil/](https://www.linkedin.com/in/haci-samed-yesil/)
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
@@ -43,12 +44,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
 </a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlserver/sqlserver-original-wordmark.svg" alt="sql" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="sql" width="40" height="40"/> 
 </a>
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aspnet/aspnet-original-wordmark.svg" alt="asp net core" width="40" height="40"/> 
 </a>
- </p>
+
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yesil28&show_icons=true&locale=en&layout=compact" alt="yesil28" /></p>
 
