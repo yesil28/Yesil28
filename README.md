@@ -1,49 +1,65 @@
-<h1 align="center">Hi 👋, I'm Haci Samed Yesil</h1>
-<h3 align="center">Frontend Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yesil28&label=Profile%20views&color=0e75b6&style=flat" alt="yesil28" /> </p>
-
-- 🌱 I work as a **Frontend Developer**.
-
-- 💬 Ask me about **what you want**
-
-- 📫 How to reach me **hacisyesil@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/haci-samed-yesil/](https://www.linkedin.com/in/haci-samed-yesil/)
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-</a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="scss" width="40" height="40"/> 
-</a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-</a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/120px-Tailwind_CSS_Logo.svg.png" alt="tailwindcss" width="40" height="40"/> 
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-</a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Angular_gradient.png/150px-Angular_gradient.png" alt="Angular" width="40" height="40"/> 
-</a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40" height="40"/> 
-</a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-</a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/he/thumb/3/39/Microsoft_SQL_server_logo.png/250px-Microsoft_SQL_server_logo.png" alt="sql" width="40" height="40"/> 
-</a>
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=0E75B6&center=true&vCenter=true&width=550&lines=Hi+👋,+I'm+Haci+Samed+Yesil;Frontend+Developer;Passionate+about+Web+Technologies;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
+
+<!-- Title -->
+<h1 align="center">🚀 Frontend Developer | Tech Enthusiast</h1>
+
+<!-- Badges -->
+<p align="center">
+  <a href="https://github.com/yesil28">
+    <img src="https://komarev.com/ghpvc/?username=yesil28&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://www.linkedin.com/in/haci-samed-yesil/">
+    <img src="https://img.shields.io/badge/LinkedIn-0e75b6?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:hacisyesil@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hacisyesil%40gmail.com-red?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🌱 I’m currently working as a **Frontend Developer**
+- 💡 Always curious about **UI/UX and clean code**
+- 💬 Feel free to ask me about **Angular, TypeScript, or Firebase**
+- 📫 How to reach me: **hacisyesil@gmail.com**
+- 📄 Check my professional background on [LinkedIn](https://www.linkedin.com/in/haci-samed-yesil/)
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,angular,firebase,cs,git,github,vscode,sqlserver" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yesil28&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yesil28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesil28&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/haci-samed-yesil/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:hacisyesil@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://github.com/yesil28"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
+
+---
+
+✨ _“Code is like humor. When you have to explain it, it’s bad.”_  
