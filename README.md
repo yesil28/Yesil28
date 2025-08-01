@@ -28,7 +28,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,angular,firebase,cs,git,github,vscode,sqlserver" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,angular,firebase,cs,sqlserver" />
 </p>
 
 ---
