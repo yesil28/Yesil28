@@ -1,10 +1,4 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=0E75B6&center=true&vCenter=true&width=550&lines=Hi+👋,+I'm+Haci+Samed+Yesil;Frontend+Developer;Passionate+about+Web+Technologies;Always+Learning+New+Things" alt="Typing SVG" />
-</p>
-
-<!-- Title -->
-<h1 align="center">🚀 Frontend Developer | Tech Enthusiast</h1>
+<h1 align="center">🚀 Frontend Developer</h1>
 
 <!-- Badges -->
 <p align="center">
