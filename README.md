@@ -54,6 +54,3 @@
   <a href="https://github.com/yesil28"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
----
-
-✨ _“Code is like humor. When you have to explain it, it’s bad.”_  
